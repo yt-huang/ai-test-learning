@@ -1,0 +1,14 @@
+{
+  "nvidia": {
+    "api_key": "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",
+    "base_url": "https://integrate.api.nvidia.com/v1",
+    "model": "moonshotai/kimi-k2.5",
+    "temperature": 0.7
+  },
+  "alternative_models": [
+    "moonshotai/kimi-k2.5",
+    "meta/llama-3.3-70b-instruct",
+    "deepseek-ai/deepseek-r1",
+    "google/gemma-2-27b-it"
+  ]
+}
